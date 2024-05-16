@@ -1,6 +1,6 @@
 # Project Ojek Online 
 # Hasil Project :
-<img align="justify" alt="Web-developer" width="100%" src="Ojek Online Yarsi.png">
+<img align="justify" alt="Web-developer" width="50%" src="Ojek Online Yarsi.png">
 # Cara Clone Program Tersebut
 # 1. Klik Code sebelah add file lalu pada
 # https://github.com/fadlyfebros/Ojek-Online.git 
